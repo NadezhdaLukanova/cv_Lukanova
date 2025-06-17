@@ -16,10 +16,10 @@
 ## 📌 Как использовать  
 1. **Клонировать репозиторий**:  
    ```bash
-   git clone https://github.com/NadezhdaLukanova/cv_Lukanova.git```
-   Открыть index.html в браузере.
+   git clone https://github.com/NadezhdaLukanova/cv_Lukanova.git
+2.   Открыть index.html в браузере.
 
 ## 🔗 Ссылки
-**Исходный код:** [GitHub](https://github.com/NadezhdaLukanova/cv_Lukanova)
+- **Исходный код:** [GitHub](https://github.com/NadezhdaLukanova/cv_Lukanova)
 
-**Демо:** [GitHub Pages](https://nadezhdalukanova.github.io/cv_Lukanova/)
+- **Демо:** [GitHub Pages](https://nadezhdalukanova.github.io/cv_Lukanova/)
